@@ -1,6 +1,5 @@
 ============================
-Searching for: to
+Searching for: frog
 Insilde file: poem.txt
 ============================
-Are you nobody, too?
-How dreary to be somebody!
+How public, like a frog
