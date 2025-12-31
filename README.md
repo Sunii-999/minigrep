@@ -8,4 +8,6 @@ Along the way, we’ll show how to make our command line tool use the terminal f
 
 One Rust community member, Andrew Gallant, has already created a fully featured, very fast version of `grep`, called `ripgrep`. By comparison, our version will be fairly simple, but this chapter will give you some of the background knowledge you need to understand a real-world project such as ripgrep.
 
+> In order to search in file use `cargo run -- "word" "insideThisFile"`
+
 [Project-documentation-Rust](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
